@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "RAWG"
+include ':core'
+include ':favorite'

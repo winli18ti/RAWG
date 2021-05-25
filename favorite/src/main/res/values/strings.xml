@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_undo">Cancel removing favorite?</string>
+    <string name="message_ok">YES</string>
+</resources>

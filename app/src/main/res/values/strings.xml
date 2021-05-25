@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">RAWG</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="empty_data">No games here.</string>
+    <string name="error">Something went wrong.</string>
+    <string name="rawg">R A W G</string>
+    <string name="search_games">Search games</string>
+    <string name="menu_back">Back</string>
+
+    <plurals name="playtime">
+        <item quantity="one">Average playtime: %d hour</item>
+        <item quantity="other">Average playtime: %d hours</item>
+    </plurals>
+
+    <plurals name="ratings_count">
+        <item quantity="one">%d rating</item>
+        <item quantity="other">%d ratings</item>
+    </plurals>
+
+    <string name="name_example">Grand Theft Auto V</string>
+    <string name="description_example">Rockstar Games went bigger, since their previous installment of the series. You get the complicated and realistic world-building from Liberty City of GTA4 in the setting of lively and diverse Los Santos, from an old fan favorite GTA San Andreas. 561 different vehicles (including every transport you can operate) and the amount is rising with every update. \r\nSimultaneous storytelling from three unique perspectives: \r\nFollow Michael, ex-criminal living his life of leisure away from the past, Franklin, a kid that seeks the better future, and Trevor, the exact past Michael is trying to run away from. \r\nGTA Online will provide a lot of additional challenge even for the experienced players, coming fresh from the story mode. Now you will have other players around that can help you just as likely as ruin your mission. Every GTA mechanic up to date can be experienced by players through the unique customizable character, and community content paired with the leveling system tends to keep everyone busy and engaged.</string>
+    <string name="metacritic_example">97</string>
+    <string name="released_example">2013-09-17</string>
+    <string name="website_example">http://www.rockstargames.com/V/</string>
+    <string name="rating_example">4.48</string>
+    <string name="playtime_example">Average playtime: 70 hours</string>
+    <string name="ratings_count_example">4742 ratings</string>
+    <string name="platforms_example">PlayStation 5, PlayStation 4, PlayStation 3, Xbox 360, PC</string>
+    <string name="stores_example">PlayStation Store, Epic Games, Steam, Xbox 360 Store, Xbox Store</string>
+    <string name="developers_example">Rockstar North</string>
+    <string name="genres_example">Action, Adventure</string>
+    <string name="tags_example">Singleplayer, Steam Achievements, Multiplayer, Atmospheric, Full controller support, Great Soundtrack, RPG, Co-op, Open World, cooperative, First Person, Third Person, Funny, Sandbox, Comedy, Third-Person Shooter, Moddable, Crime, vr mod</string>
+    <string name="publishers_example">Rockstar Games</string>
+    <string name="esrb_rating_example">Mature</string>
+    <string name="about">About</string>
+    <string name="platforms">Platforms</string>
+    <string name="metascore">Metascore</string>
+    <string name="genre">Genre</string>
+    <string name="released">Release date</string>
+    <string name="developer">Developer</string>
+    <string name="publisher">Publisher</string>
+    <string name="rating">Rating</string>
+    <string name="tags">Tags</string>
+    <string name="website">Website</string>
+    <string name="store">Where to buy</string>
+</resources>
