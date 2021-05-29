@@ -47,7 +47,7 @@ android {
 
 dependencies {
 
-    //noinspection DifferentStdlibGradleVersion
+    //noinspection GradleDependency
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 
     implementation "androidx.room:room-runtime:$room_version"

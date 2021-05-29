@@ -32,18 +32,6 @@
         <item name="android:layout_marginTop">8dp</item>
     </style>
 
-    <style name="Title">
-        <item name="android:fontFamily">@font/segoe_ui_black</item>
-        <item name="android:textSize">28sp</item>
-        <item name="fontWeight">700</item>
-        <item name="lineHeight">28.8dp</item>
-    </style>
-
-    <style name="Subtitle">
-        <item name="android:textSize">18sp</item>
-        <item name="fontWeight">400</item>
-    </style>
-
     <style name="Text.Content1">
         <item name="android:fontFamily">@font/segoe_ui_black</item>
         <item name="android:textSize">28sp</item>

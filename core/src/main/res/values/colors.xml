@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="placeholder">#B8B8B8</color>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="placeholder" tools:keep="@color/placeholder">#B8B8B8</color>
 </resources>
